@@ -1,15 +1,15 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "randomLocation": false,
+    "alias": "何源龙",
+    "phone": "13592174367",
+    "password": "126198we",
     "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "deviceId": "2c35f551c7c44cd29636bee1fe22482fdb6c",
+    "randomLocation": true,
+    "address": "宜兴市和桥镇公园路41-1号",
+    "longitude": "119.8844",
+    "latitude": "31.4788",
+    "pushKey": "4026e9da055e4949b1c48edd5f43554e"
   }
 ]
